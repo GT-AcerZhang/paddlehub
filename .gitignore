@@ -133,4 +133,5 @@ dmypy.json
 扣图/humanseg_output
 扣图/*.mp4
 makeVideo
+.idea
 
